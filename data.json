@@ -1,0 +1,273 @@
+{
+  "Siri": {
+    "@xmlns": "http://www.siri.org.uk/siri",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.siri.org.uk/ http://www.siri.org.uk/schema/2.0/xsd/siri.xsd",
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2022-03-11T14:14:14+00:00",
+      "ProducerRef": "R2PUK",
+      "Status": "true",
+      "StopMonitoringDelivery": {
+        "@version": "2.0",
+        "ResponseTimestamp": "2022-03-11T14:14:14+00:00",
+        "Status": "true",
+        "MonitoringRef": "039027230003",
+        "MonitoredStopVisit": [
+          {
+            "RecordedAtTime": "2022-03-11T14:13:58+00:00",
+            "ItemIdentifier": "P_1647008054.8853",
+            "MonitoredVehicleJourney": {
+              "LineRef": "2",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "36_20220311"
+              },
+              "PublishedLineName": "2",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030052560001",
+              "DestinationRef": "039028150001",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T13:50:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-432",
+              "MonitoredCall": {
+                "Order": "30",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:20:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:19:06+00:00",
+                "AimedDepartureTime": "2022-03-11T14:20:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:19:06+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:14:00+00:00",
+            "ItemIdentifier": "P_1647008054.8853",
+            "MonitoredVehicleJourney": {
+              "LineRef": "26",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "74_20220311"
+              },
+              "PublishedLineName": "26",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030058790001",
+              "DestinationRef": "039028150004",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T13:55:00+00:00",
+              "Monitored": "true",
+              "Delay": "PT2M43S",
+              "VehicleRef": "RBUS-207",
+              "MonitoredCall": {
+                "Order": "24",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:17:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:19:43+00:00",
+                "AimedDepartureTime": "2022-03-11T14:17:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:19:43+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:13:56+00:00",
+            "ItemIdentifier": "P_1647008054.8853",
+            "MonitoredVehicleJourney": {
+              "LineRef": "26",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "76_20220311"
+              },
+              "PublishedLineName": "26",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030058790001",
+              "DestinationRef": "039028150004",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T14:10:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-206",
+              "MonitoredCall": {
+                "Order": "24",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:33:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:31:20+00:00",
+                "AimedDepartureTime": "2022-03-11T14:33:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:31:20+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:13:56+00:00",
+            "ItemIdentifier": "P_1647008054.8853",
+            "MonitoredVehicleJourney": {
+              "LineRef": "1",
+              "DirectionRef": "outbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "35_20220311"
+              },
+              "PublishedLineName": "1",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030059120001",
+              "DestinationRef": "039028150001",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T13:25:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-788",
+              "MonitoredCall": {
+                "Order": "65",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:38:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:36:40+00:00",
+                "AimedDepartureTime": "2022-03-11T14:38:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:36:40+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:14:08+00:00",
+            "ItemIdentifier": "P_1647008054.8854",
+            "MonitoredVehicleJourney": {
+              "LineRef": "26",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "78_20220311"
+              },
+              "PublishedLineName": "26",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030058790001",
+              "DestinationRef": "039028150004",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T14:25:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-204",
+              "MonitoredCall": {
+                "Order": "24",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:48:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:46:20+00:00",
+                "AimedDepartureTime": "2022-03-11T14:48:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:46:20+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:14:00+00:00",
+            "ItemIdentifier": "P_1647008054.8854",
+            "MonitoredVehicleJourney": {
+              "LineRef": "2a",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "38_20220311"
+              },
+              "PublishedLineName": "2a",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030052560001",
+              "DestinationRef": "039028150001",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T14:20:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-409",
+              "MonitoredCall": {
+                "Order": "31",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T14:50:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T14:48:40+00:00",
+                "AimedDepartureTime": "2022-03-11T14:50:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T14:48:40+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:14:01+00:00",
+            "ItemIdentifier": "P_1647008054.8854",
+            "MonitoredVehicleJourney": {
+              "LineRef": "26",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "80_20220311"
+              },
+              "PublishedLineName": "26",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030058790001",
+              "DestinationRef": "039028150004",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T14:40:00+00:00",
+              "Monitored": "true",
+              "Delay": "PT0S",
+              "VehicleRef": "RBUS-202",
+              "MonitoredCall": {
+                "Order": "24",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T15:03:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T15:03:00+00:00",
+                "AimedDepartureTime": "2022-03-11T15:03:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T15:03:00+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:13:47+00:00",
+            "ItemIdentifier": "P_1647008054.8854",
+            "MonitoredVehicleJourney": {
+              "LineRef": "1",
+              "DirectionRef": "outbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "37_20220311"
+              },
+              "PublishedLineName": "1",
+              "OperatorRef": "RBUS",
+              "OriginRef": "030059120001",
+              "DestinationRef": "039028150001",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T13:55:00+00:00",
+              "Monitored": "true",
+              "VehicleRef": "RBUS-794",
+              "MonitoredCall": {
+                "Order": "65",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T15:08:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T15:06:40+00:00",
+                "AimedDepartureTime": "2022-03-11T15:08:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T15:06:40+00:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2022-03-11T14:14:14+00:00",
+            "ItemIdentifier": "P_1647008054.8854",
+            "MonitoredVehicleJourney": {
+              "LineRef": "26",
+              "DirectionRef": "inbound",
+              "FramedVehicleJourneyRef": {
+                "DataFrameRef": "2022-03-11",
+                "DatedVehicleJourneyRef": "84_20220311"
+              },
+              "PublishedLineName": "26",
+              "OperatorRef": "RBUS",
+              "OriginRef": "039025610002",
+              "DestinationRef": "039028150004",
+              "DestinationName": "Reading Station",
+              "OriginAimedDepartureTime": "2022-03-11T15:08:00+00:00",
+              "Monitored": "false",
+              "MonitoredCall": {
+                "Order": "5",
+                "VehicleAtStop": "false",
+                "AimedArrivalTime": "2022-03-11T15:13:00+00:00",
+                "ExpectedArrivalTime": "2022-03-11T15:13:00+00:00",
+                "AimedDepartureTime": "2022-03-11T15:13:00+00:00",
+                "ExpectedDepartureTime": "2022-03-11T15:13:00+00:00"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
